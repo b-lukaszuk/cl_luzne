@@ -1,0 +1,62 @@
+PMID- 23209333
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20121205
+LR  - 20181113
+IS  - 0044-5991 (Print)
+IS  - 1347-5800 (Electronic)
+IS  - 0044-5991 (Linking)
+VI  - 45
+IP  - 5
+DP  - 2012 Oct 31
+TI  - Anatomy and histology of rodent and human major salivary glands: -overview of the
+      Japan salivary gland society-sponsored workshop-.
+PG  - 241-50
+LID - 10.1267/ahc.12013 [doi]
+AB  - MAJOR SALIVARY GLANDS OF BOTH HUMANS AND RODENTS CONSIST OF THREE PAIRS OF
+      MACROSCOPIC GLANDS: parotid, submandibular, and sublingual. These glands secrete
+      serous, mucous or mixed saliva via the proper main excretory ducts connecting the
+      glandular bodies with the oral cavity. A series of discoveries about the salivary
+      ducts in the 17th century by Niels Stensen (1638-1686), Thomas Wharton (1614-1673),
+      and Caspar Bartholin (1655-1738) established the concept of exocrine secretion as
+      well as salivary glands. Recent investigations have revealed the endocrine functions
+      of parotin and a variety of cell growth factors produced by salivary glands.The
+      present review aims to describe macroscopic findings on the major salivary glands of
+      rodents and the microscopic differences between those of humans and rodents, which
+      review should be of interest to those researchers studying salivary glands.
+FAU - Amano, Osamu
+AU  - Amano O
+AD  - Division of Anatomy, Department of Human Development and Fostering, Meikai
+      University School of Dentistry, 1-1 Keyakidai, Sakado, Saitama 350-0283, Japan.
+FAU - Mizobe, Kenichi
+AU  - Mizobe K
+FAU - Bando, Yasuhiko
+AU  - Bando Y
+FAU - Sakiyama, Koji
+AU  - Sakiyama K
+LA  - eng
+PT  - Journal Article
+DEP - 20120922
+TA  - Acta Histochem Cytochem
+JT  - Acta histochemica et cytochemica
+JID - 0147110
+PMC - PMC3496860
+OTO - NOTNLM
+OT  - human
+OT  - immunohistochemistry
+OT  - mouse
+OT  - rat
+OT  - salivary glands
+EDAT- 2012/12/05 06:00
+MHDA- 2012/12/05 06:01
+CRDT- 2012/12/05 06:00
+PHST- 2012/04/05 00:00 [received]
+PHST- 2012/07/04 00:00 [accepted]
+PHST- 2012/12/05 06:00 [entrez]
+PHST- 2012/12/05 06:00 [pubmed]
+PHST- 2012/12/05 06:01 [medline]
+AID - AHC12013 [pii]
+AID - 10.1267/ahc.12013 [doi]
+PST - ppublish
+SO  - Acta Histochem Cytochem. 2012 Oct 31;45(5):241-50. doi: 10.1267/ahc.12013. Epub 2012
+      Sep 22.
