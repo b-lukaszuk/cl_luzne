@@ -1,5 +1,5 @@
 # Quicklisp
 
-Luzne notatki, nie polecane nikomu.
+Luzne notatki, nie polecane do uzycia nikomu.
 
-Some notes, not recommended to anyone.
+Some notes, not recommended for use to anyone.
