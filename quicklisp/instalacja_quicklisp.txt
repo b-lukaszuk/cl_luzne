@@ -1,0 +1,12 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; pobrano plik "quicklisp.lisp" z https://www.quicklisp.org/beta/#loading
+		     ; a nastepnie uruchomiono go
+		      ; (load "quicklisp.lisp")
+	  ; i zainstalowano: (quicklisp-quickstart:install)
+	     ; aby uniknac ciaglego wgrywania quicklispa:
+	     ; (load "~/quicklisp/setup.lisp")
+			       ; uzyto:
+		   ; (quicklisp-quickstart:install)
+	      ; co dodalo pliki inicjalizacyjne do sbcl
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
